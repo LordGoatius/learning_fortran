@@ -18,4 +18,6 @@ program arrays
         end do
     end do
 
+    print *, twodarray
+
 end program arrays
